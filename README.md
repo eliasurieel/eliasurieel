@@ -3,11 +3,11 @@
 
 
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **React Js & React Native**
 
 - 👨‍💻 All of my projects are available at [https://github.com/eliasurieel](https://github.com/eliasurieel)
 
-- 💬 Ask me about **React Js, Javascript, Firebase, Etc.**
+- 💬 Ask me about **React Js, React Native, Redux, Javascript, Firebase, Etc.**
 
 - 📫 How to reach me **eliaasgarcia7@gmail.com**
 
